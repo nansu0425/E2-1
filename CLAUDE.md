@@ -23,12 +23,13 @@
 - [x] 팀 회의 → 김도희 #2 채택
 - [x] docs 정리 — 채택 안 된 본인 산출물 `docs/archive/`로 이동, 의료/돌봄 리서치만 `RESEARCH-CARE.md`로 추출
 - [x] 김도희 원안의 마크다운 escape(`\#`, `\-`, `&#x09;`) 정리
-- [ ] 기획서 작성 ([docs/MISSION.md](docs/MISSION.md) §4.3 8개 항목)
+- [x] 기획서 작성 — [docs/서비스기획서.md](docs/서비스기획서.md), §4.3 8개 항목 포함 (2026-04-21)
 - [ ] 발표 자료 작성
 
 ## docs 구조
 
 **활성 (기획서 작성 시 참조)**
+- [docs/서비스기획서.md](docs/서비스기획서.md) — **제출 산출물 본체**. 모심로봇(MOSIM), §4.3 8항목, Mermaid 시스템 구성도 포함
 - [docs/MISSION.md](docs/MISSION.md) — 미션 정의, §4.3에 기획서 양식 8항목
 - [docs/로보틱스 아이디어_김도희.md](docs/로보틱스%20아이디어_김도희.md) — 채택 아이디어 원문 (#2만 유지, escape 정리 완료)
 - [docs/RESEARCH-CARE.md](docs/RESEARCH-CARE.md) — 의료/수술/재활(A-4) + 서비스(A-5) + 가정/케어(A-7) 발췌 + VLA·FM·Embodied AI·Sim-to-Real cross-cutting 기술
